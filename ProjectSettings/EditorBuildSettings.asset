@@ -6,7 +6,13 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/FallingBall/Scenes/SampleScene.unity
+    path: Assets/FallingBall/Scenes/MainmenuScene.unity
     guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/FallingBall/Scenes/GameplayScene.unity
+    guid: 061d8e95a21b2b140b7fe9996f34c69c
+  - enabled: 1
+    path: Assets/FallingBall/Scenes/GameoverScene.unity
+    guid: 05091fce16644cc4b8a929b5763116ac
   m_configObjects:
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 046f393248ceda946bee93e1b97f3589, type: 2}
