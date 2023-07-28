@@ -15,4 +15,6 @@ EditorBuildSettings:
     path: Assets/FallingBall/Scenes/GameoverScene.unity
     guid: 05091fce16644cc4b8a929b5763116ac
   m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: ea97b4c3c2182db42b772b43153d2b11, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: f3f92874bc4656d42bb74df2e489828b, type: 2}
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 046f393248ceda946bee93e1b97f3589, type: 2}
